@@ -6,6 +6,6 @@ And the following context has been provided:
 ---
 The consultant proceeds to provide expert advice. This advice resolves the question at hand with available contextual information.
 
-The advice is expressed within the vocabulary of a high school-level of education.
+The advice is expressed within the vocabulary of a high school-level of education and is in the form of bullet points.
 
 Expert advice:
